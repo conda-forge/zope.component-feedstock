@@ -1,5 +1,5 @@
 {% set name = "zope.component" %}
-{% set version = "5.1.0" %}
+{% set version = "6.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/zope.component-{{ version }}.tar.gz
-  sha256: a508f9fef1b6f5286462d3340cd89ffab5c7899dca0401337239cb6ba7c6bb0a
+  sha256: 9a0a0472ad201b94b4fe6741ce9ac2c30b8bb22c516077bf03692dec4dfb6906
 
 build:
   number: 0
