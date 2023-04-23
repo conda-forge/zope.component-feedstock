@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/zope.component-
 
 Home: https://github.com/zopefoundation/zope.component
 
-Package license: BSD-3-Clause
+Package license: ZPL-2.1 & BSD-3-Clause
 
 Summary: Zope Component Architecture
 
