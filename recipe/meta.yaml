@@ -40,7 +40,7 @@ test:
 about:
   home: https://github.com/zopefoundation/zope.component
   summary: Zope Component Architecture
-  license: ZPL-2.1 & BSD-3-Clause
+  license: ZPL-2.1 AND BSD-3-Clause
   license_file:
     - COPYRIGHT.txt
     - LICENSE.txt
